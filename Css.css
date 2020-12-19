@@ -121,3 +121,8 @@ footer > .pillar-1 > a:hover{
 footer > .pillar-3 > a:hover{
     text-decoration: underline;
 }
+@media(max-width:1000px){
+    .content{
+        width:100px;
+    }
+}
