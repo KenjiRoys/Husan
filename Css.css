@@ -23,6 +23,7 @@ nav > div > a:hover{
     color: black;
 }
 .content{
+    display: flex;
     text-align: center;
 }
 .content > p{
