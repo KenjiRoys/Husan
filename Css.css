@@ -23,9 +23,15 @@ nav > div > a:hover{
     color: black;
 }
 .content{
+    width: 100%;
     flex-direction: column;
     display: flex;
     text-align: center;
+}
+.content > div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 .content > p{
     margin-top: 20px;
