@@ -23,6 +23,7 @@ nav > div > a:hover{
     color: black;
 }
 .content{
+    flex-direction: column;
     display: flex;
     text-align: center;
 }
